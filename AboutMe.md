@@ -1,0 +1,4 @@
+- 👋 Yert Wsg, I’m @vixzyz or vix.
+- 👀 I’m interested in C++, Java, JavaScript & Lua.
+- 🌱 I’m currently learning Kotlin.
+- 📫 You Could find me at Vix#0069.
